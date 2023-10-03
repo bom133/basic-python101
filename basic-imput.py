@@ -4,6 +4,7 @@ for i in range(5):
     friend.append(data)
 
 print(friend)
+print(friend)
 
 
 
